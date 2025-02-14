@@ -4,8 +4,8 @@ from telegram.ext import Application, CommandHandler, CallbackContext
 import os
 
 # Configuration
-TELEGRAM_BOT_TOKEN = ("7956789514:AAGxj-xIj_wfkYMX-qniQOewRtyLKcMWXko")  # Fetch token from environment variable
-ADMIN_USER_ID = 1549748318
+TELEGRAM_BOT_TOKEN = ("7138531549:AAEQH5eTvZ_RRNq4yKhJaYDCxj3zSrHjqsU")  # Fetch token from environment variable
+ADMIN_USER_ID = 7104737839
 APPROVED_IDS_FILE = 'approved_ids.txt'
 CHANNEL_ID = "@RAJOWNER9090"  # Replace with your channel username
 attack_in_progress = False
